@@ -25,7 +25,7 @@ $$CI= point estimate ± (critical value * standard error (SE))$$
   For the given example: $$SE = n * p * (1−p) = 0.36 * (1−0.36)​$$
 
 - **Confidence Interval**: Substituting the values into the formula:
-  $0.36 ± 1.96 * SE$
+  $$0.36 ± 1.96 * SE$$
 
 #### Assumptions for Using the CI Formula:
 - The sample data are random and representative of the population.
