@@ -1,0 +1,10 @@
+.image {
+  width: 48%; /* Adjust the width as needed */
+  height: auto;
+  margin-right: 2%; /* Optional: Adds space between images */
+}
+
+.image:last-child {
+  margin-right: 0; /* Removes margin from the last image */
+}
+

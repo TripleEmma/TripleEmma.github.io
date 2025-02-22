@@ -1,11 +1,12 @@
 plugins:
   - jekyll-paginate
 
-title: Sweet 16
-description:
-    <a href="https://wordpress.org/themes/twentysixteen/" rel="external">Wordpress 2016 theme</a>
-    in <a href="https://jekyllrb.com/" rel="external">Jekyll</a>
+title: Emma's Blog
+description: Decipher the code of ecology and evolution with codes.
+url: "https://tripleemma.github.io"
+author: "Emma"
 
-paginate: 10
+excerpt_separator: "<!--more-->"
+paginate: 6
 paginate_path: /page/:num/
 permalink: /:title/
