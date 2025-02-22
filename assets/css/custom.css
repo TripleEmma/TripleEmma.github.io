@@ -8,3 +8,8 @@
   margin-right: 0; /* Removes margin from the last image */
 }
 
+.centered-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
