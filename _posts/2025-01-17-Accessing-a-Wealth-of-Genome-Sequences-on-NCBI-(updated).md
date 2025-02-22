@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2025-01-17
+tag: Daily tasks
 categories: [Bioinformatics]
 ---
 
