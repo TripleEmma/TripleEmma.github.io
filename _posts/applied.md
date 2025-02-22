@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2024-11-04
+title: Calculate Confidence Interval for Any Variable
 tag: Applied statistics
 categories: [Statistics]
 ---
