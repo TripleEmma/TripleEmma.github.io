@@ -10,7 +10,7 @@ I came across a question like the following: Given 100 patients, 36 died within 
 
 The general formula for a 95% confidence interval (CI) is:
 
-$CI= point estimate ± (critical value * standard error (SE))$
+$$CI= point estimate ± (critical value * standard error (SE))$$
 
 #### Components of the Formula:
 - **Point Estimate**: The point estimate could be a sample mean, sample proportion, or other summary statistics. In this case, it is the sample proportion, which is 36/100 = 0.36:
@@ -22,7 +22,7 @@ $CI= point estimate ± (critical value * standard error (SE))$
 - **Standard Error (SE)**: The standard error quantifies the variability of the sample estimate. It is calculated differently depending on the type of variable:
   For a mean:where is the sample standard deviation and is the sample size.
   For a proportion:where is the sample proportion.
-  For the given example: $SE = n * p * (1−p) = 0.36 * (1−0.36)​$
+  For the given example: $$SE = n * p * (1−p) = 0.36 * (1−0.36)​$$
 
 - **Confidence Interval**: Substituting the values into the formula:
   $0.36 ± 1.96 * SE$
