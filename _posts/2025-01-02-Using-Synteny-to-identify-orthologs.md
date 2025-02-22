@@ -1,3 +1,11 @@
+---
+layout: post
+date: 2025-01-02
+tag: Daily tasks
+categories: [Bioinformatics]
+---
+
+
 Recently I wanted to construct a phylogenetic tree for a specific gene across multiple species. However, the gene in question has multiple copies within each species, making it challenging to identify the correct orthologs. The similarity among these copies complicates determining whether the best BLAST hit is truly the ortholog.
 <!--more-->
 
