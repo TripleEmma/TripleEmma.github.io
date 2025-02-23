@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2025-02-20
+title: Backup Data to NAS Server
 tag: IT
 categories: [Bioinformatics]
 ---

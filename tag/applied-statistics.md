@@ -1,4 +1,4 @@
 ---
 layout: tag
-title: Applied Statistics
+title: Applied statistics
 ---

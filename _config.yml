@@ -1,12 +1,20 @@
 plugins:
   - jekyll-paginate
 
+
 title: Emma's Blog
 description: Decipher the code of ecology and evolution with codes.
 url: "https://tripleemma.github.io"
 author: "Emma"
 
 excerpt_separator: "<!--more-->"
-paginate: 6
+
+paginate: 20
 paginate_path: /page/:num/
 permalink: /:title/
+
+defaults:
+  - scope:
+        path: ""
+    values:
+        author: Emma
