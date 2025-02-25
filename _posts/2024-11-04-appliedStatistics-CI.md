@@ -11,7 +11,7 @@ I came across a question like the following: Given 100 patients, 36 died within 
 
 The general formula for a 95% confidence interval (CI) is:
 
-$$CI= point estimate ± (critical value * standard error (SE))$$
+$$CI= point\ estimate ± (critical\ value * standard\ error (SE))$$
 
 #### Components of the Formula:
 - **Point Estimate**: The point estimate could be a sample mean, sample proportion, or other summary statistics. In this case, it is the sample proportion, which is 36/100 = 0.36:
