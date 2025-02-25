@@ -140,7 +140,7 @@ We extract reads with indices `GGGGGGGG+GGGGGGGG`, and also at least 100 continu
 <figcaption style="text-align: center; margin-top: 0px;">Per base quality of R2 with all 'G' indices </figcaption>
 </figure>
 
-We are certain that these reads are not real (both indices are 'GGGGGGGG' and at least 100 'G' within the read), but with such good qualtiy. This should alarm us that <span style="color: red;">**the two-color system sequencer is not doing what it claimed. It can really tell whether the dark signal is a real 'G' or no signal at all!**</span>.
+We are certain that these reads are not real (both indices are 'GGGGGGGG' and at least 100 'G' within the read), but with such good qualtiy. This should alarm us that <span style="color: red;">**the two-color system sequencer is not doing what it claimed. It can NOT really tell whether the dark signal is a real 'G' or no signal at all!**</span>.
 
 <hr>
 For our purpose, even a reads is assigned to a species, we still need to assign it to a specific individual.
