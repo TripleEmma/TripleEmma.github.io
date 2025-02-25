@@ -72,6 +72,7 @@ during the first 25 cycles.
 
 - The missing 300G is due to missing clusters, likely caused by a library issue rather than a machine or flow cell defect.
 
+##### Map of clusters 
 The 55% missing clusters could due to weak/confused signal, but it could also due to the fact there is no clusters forming on the tile from the beginning. Illumina sequencers NovaSeq X Plus will first creates a "map" of where every cluster is located on the flow cell. Later, during each sequencing cycle, the instrument only interrogates those pre-identified coordinates. We can look into this 'map' to see at least how many clusters are formed before entering the sequencing step. This map information is stored in *.locs file. Usually there are also *.filter along with the BLC data. These *.filter files contains information on which clusters passed the quality filter (PF).
 
 
